@@ -1,0 +1,14 @@
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\generalClassLibrary.dll
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\generalClassLibrary.pdb
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\obj\Debug\generalClassLibrary.dll
+C:\Users\VIRUS\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\obj\Debug\generalClassLibrary.pdb
+C:\Users\SWAP\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\generalClassLibrary.dll
+C:\Users\SWAP\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\bin\Debug\generalClassLibrary.pdb
+C:\Users\SWAP\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\obj\Debug\generalClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\SWAP\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\obj\Debug\generalClassLibrary.dll
+C:\Users\SWAP\Documents\Visual Studio 2010\Projects\generalClassLibrary\generalClassLibrary\obj\Debug\generalClassLibrary.pdb
